@@ -1,7 +1,3 @@
-********Software designed for use by University of Waterloo finance department research studies.********
-********Designed by Colin Woodworth and Hasanain Habib-Nayany.******************************************
-********Copyright Colin Woodworth and Hasanain Habib-Nayany 2015.***************************************
-
 README
 
 Instructions for use:
